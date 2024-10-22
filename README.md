@@ -19,13 +19,13 @@ https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 As mentioned earlier, the comparisions with different models have been made and provided in the folder "comparisions" with the code and all the stats.
 
 The results were as follow:-
-### ResNet: 
+### ResNet
 Showed a recall of 100%, but precision fell to 66.67%, leading to more false positives and an overall accuracy of 80%.
-### U-Net: 
+### U-Net
 Achieved 97.15% accuracy with a Dice coefficient of 94.27%. Strong in detecting lung regions but not the highest performer.
-### VGG-16: 
+### VGG-16
 This model underperformed significantly compared to the others, with a validation accuracy of only 74.92%. The other metrics like precision and Dice coefficient were all 0.00%, indicating major challenges in accurately segmenting the lung regions.
-### Attention U-Net: 
+### Attention U-Net
 The best model, achieving an accuracy of 98.89%, a Dice coefficient of 97.75%, and superior performance in lung region identification, outperforming other models.
 
 
