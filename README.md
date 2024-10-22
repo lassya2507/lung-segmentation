@@ -2,7 +2,7 @@
 This project focuses on using the Attention-based U-Net model to improve lung segmentation in chest X-rays (CXR), which plays a crucial role in diagnosing diseases like COVID-19. The Attention-based U-Net enhances segmentation accuracy by focusing on the most relevant regions of the lung in each image. This model was compared with three other popular approaches: standard U-Net, ResNet-based U-Net, and VGG-based U-Net. Each model was evaluated based on accuracy, precision, recall, F1-score, Jaccard Index and Dice coefficient.
 
 Among these, the Attention U-Net model achieved the best results, with an accuracy of 98.89% and a Dice coefficient of 97.75%, outperforming the others in all key metrics. This makes it the most reliable model for effective lung segmentation in medical imaging.
-
+![sample result](sample_result.png)
 ## Requirements
 1. **Dataset:** The dataset used here is the COVID-19 Radiography Database, which contains 3616 chest X-ray images along with their corresponding lung masks and it can be found in this link below:-
 
@@ -28,4 +28,5 @@ This model underperformed significantly compared to the others, with a validatio
 ### Attention U-Net
 The best model, achieving an accuracy of 98.89%, a Dice coefficient of 97.75%, and superior performance in lung region identification, outperforming other models.
 
-
+## Research Paper
+Authored by :- Dr.Arun Kumar and [Ms.Prarthana Rout](https://www.linkedin.com/in/lassya/)
