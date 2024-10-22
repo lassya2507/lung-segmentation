@@ -30,3 +30,5 @@ The best model, achieving an accuracy of 98.89%, a Dice coefficient of 97.75%, a
 
 ## Research Paper
 Authored by :- Dr.Arun Kumar and [Ms.Prarthana Rout](https://www.linkedin.com/in/lassya/)
+
+Research paper available [here](research_paper.pdf) for reading
