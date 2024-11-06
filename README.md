@@ -6,7 +6,7 @@ Among these, the Attention U-Net model achieved the best results, with an accura
 ## Requirements
 1. **Dataset:** The dataset used here is the COVID-19 Radiography Database, which contains 3616 chest X-ray images along with their corresponding lung masks and it can be found in this link below:-
 
-https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+   https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
 2. **Tools:** Python, TensorFlow/Keras, OpenCV, Matplotlib.
 
